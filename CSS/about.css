@@ -1,8 +1,16 @@
-.foto-about{
-    background-color: transparent;
-    width: 400px;
-    height: 400px;
-   margin-left: 20px;
-    margin-top: 10px;
-    margin-bottom: 40px;
+.foto-about {
+  width: 330px;
+  height: 350px;
+  border-radius: 60%;
+  position: absolute;
+  left: 6%;
+  top: 30%;
+}
+.text-info2 {
+  color: #fff;
+  width: 540px;
+  height: 320px;
+  font-size: 40px;
+  font-family: "Noto Serif Ahom", serif;
+  margin-bottom: 60px;
 }
