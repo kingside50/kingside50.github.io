@@ -79,9 +79,9 @@ h1 {
   width: 50px;
   height: 50px;
 }
-a {
+/* a {
   text-decoration: none;
-}
+} */
 
 nav {
   font-family: monospace;
