@@ -1,3 +1,4 @@
+/* this is for the logo bar the size */
 #logobar-straight{
     height: 300px;
     width: 100%;
@@ -29,14 +30,14 @@ display: flex;
     text-align: center;
 
 }
-
+/* this is the box that holds te information of the contcact */
 .card {
     width: 70%;
     padding: 8px 45px 10px 45px;
     border: 6px solid rgba(0, 0, 0, 0.3);
     box-shadow: 20px 20px 0 rgba(0, 0, 0, 0.3);
     border-radius: 50px;
-    /* position: relative; */
+    
   }
   
   .card h2 {
@@ -125,7 +126,7 @@ display: flex;
     color: #ffffff;
     transition: all 0.4s;   
   }
-  
+  /* this is for the responsivness of the contact page */
   @media screen and (max-width: 900px) {
     .card .row {
       grid-template-columns: repeat(auto-fit,minmax(70%, 1fr));

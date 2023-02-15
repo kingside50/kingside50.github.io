@@ -14,8 +14,8 @@ body {
 
   align-items: center;
 }
-
-.fotobox {
+/* this is the form the foto need to be in */
+.photobox {
   background-color: white;
   width: 330px;
   height: 350px;
@@ -79,9 +79,7 @@ h1 {
   width: 50px;
   height: 50px;
 }
-/* a {
-  text-decoration: none;
-} */
+
 
 nav {
   font-family: monospace;
@@ -175,6 +173,6 @@ ul li ul li {
   color: #fff;
   width: 540px;
   height: 320px;
-  font-size: 40px;
+  font-size: 30px;
   font-family: "Noto Serif Ahom", serif;
 }

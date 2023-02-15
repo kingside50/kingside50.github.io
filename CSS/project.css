@@ -1,3 +1,4 @@
+/* this is for the icons to be in place */
 .icon-box {
   width: 500px;
   height: 500px;
@@ -6,10 +7,12 @@
   display: flex;
   flex-wrap: wrap;
 }
+/* this is for the size of the icons */
 .icon {
   width: 250px;
   height: 250px;
 }
+/* this is for the card that contains the picture of my mastermind */
 .card {
   width: 500px;
   height: 600px;

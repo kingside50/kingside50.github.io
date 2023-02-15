@@ -1,4 +1,5 @@
-.foto-about {
+/* this is for the foto about me */
+.photo-about {
   width: 330px;
   height: 350px;
   border-radius: 60%;
@@ -6,11 +7,12 @@
   left: 6%;
   top: 30%;
 }
+/* this is to make the text fit in the space */
 .text-info2 {
   color: #fff;
   width: 540px;
   height: 320px;
-  font-size: 40px;
+  font-size: 30px;
   font-family: "Noto Serif Ahom", serif;
   margin-bottom: 60px;
 }
